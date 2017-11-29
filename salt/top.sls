@@ -8,5 +8,4 @@ base:
     - ssh-service
     - users.sudousers
     - groups
-    - lvm 
-    - lvm.lvm-auto
+    - lvm
