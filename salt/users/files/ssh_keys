@@ -1,0 +1,2 @@
+# Miguel Salt SSH Key
+{{ ssh_key }}

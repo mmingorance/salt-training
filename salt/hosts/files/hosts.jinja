@@ -1,0 +1,7 @@
+{% set local_name = grains['host'] -%}
+
+127.0.0.1    localhost
+127.0.1.1    {{ local_name }}
+10.211.55.5  salt
+10.211.55.6  minion1
+10.211.55.7  minion2
